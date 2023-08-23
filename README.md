@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
 <h3 align="center">A passionate student from India</h3>
-<img align="right" width="350" src="/gif-files/coding from home.gif">
+<img align="right" width="300" src="/gif-files/coding from home.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newdev101&label=Profile%20views&color=0e75b6&style=flat" alt="newdev101" /> </p>
